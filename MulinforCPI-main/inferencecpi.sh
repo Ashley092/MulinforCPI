@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVIES=1 python inferencecpi.py --config=best_configs/inference_cpi.yml
